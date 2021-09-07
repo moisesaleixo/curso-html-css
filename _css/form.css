@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+input#butao{
+    text-align: center;
+    display: block;
+    position: center;
+    margin: 0px auto;
+}
